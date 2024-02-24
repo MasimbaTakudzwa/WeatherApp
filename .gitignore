@@ -1,0 +1,7 @@
+# Ignore IntelliJ IDEA files
+
+.idea/
+
+# Ignore build artifact
+
+target/
